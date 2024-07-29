@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nekategorizirano &#8211; WHTestSite</title>
+	<atom:link href="https://https://szrns91.github.io/whtestsite.io/category/nekategorizirano/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://szrns91.github.io/whtestsite.io</link>
+	<description></description>
+	<lastBuildDate>Mon, 29 Jul 2024 10:59:58 +0000</lastBuildDate>
+	<language>hr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>Dobar dan, svijete!</title>
+		<link>https://https://szrns91.github.io/whtestsite.io/2024/07/29/dan-svijete/</link>
+					<comments>https://https://szrns91.github.io/whtestsite.io/2024/07/29/dan-svijete/#comments</comments>
+		
+		<dc:creator><![CDATA[szrns91]]></dc:creator>
+		<pubDate>Mon, 29 Jul 2024 10:59:58 +0000</pubDate>
+				<category><![CDATA[Nekategorizirano]]></category>
+		<guid isPermaLink="false">https://https://szrns91.github.io/whtestsite.io/?p=1</guid>
+
+					<description><![CDATA[Dobro došli u WordPress. Ovo je vaša prva objava. Uredite je ili izbrišite, a zatim počnite pisati!]]></description>
+										<content:encoded><![CDATA[
+<p>Dobro došli u WordPress. Ovo je vaša prva objava. Uredite je ili izbrišite, a zatim počnite pisati!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://szrns91.github.io/whtestsite.io/2024/07/29/dan-svijete/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

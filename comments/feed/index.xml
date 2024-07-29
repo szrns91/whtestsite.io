@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Komentari za WHTestSite	</title>
+	<atom:link href="https://https://szrns91.github.io/whtestsite.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://szrns91.github.io/whtestsite.io</link>
+	<description></description>
+	<lastBuildDate>Mon, 29 Jul 2024 10:59:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Komentar na Dobar dan, svijete!, komentirao/la WordPress komentator		</title>
+		<link>https://https://szrns91.github.io/whtestsite.io/2024/07/29/dan-svijete/#comment-1</link>
+
+		<dc:creator><![CDATA[WordPress komentator]]></dc:creator>
+		<pubDate>Mon, 29 Jul 2024 10:59:58 +0000</pubDate>
+		<guid isPermaLink="false">https://https://szrns91.github.io/whtestsite.io/?p=1#comment-1</guid>
+
+					<description><![CDATA[Bok, ovo je komentar.
+Kako biste započeli s moderiranjem, uređivanjem i brisanjem komentara, na Nadzornoj ploči otvorite zaslon Komentara.
+Avatari komentatora dolaze iz &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatara&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Bok, ovo je komentar.<br />
+Kako biste započeli s moderiranjem, uređivanjem i brisanjem komentara, na Nadzornoj ploči otvorite zaslon Komentara.<br />
+Avatari komentatora dolaze iz <a href="https://gravatar.com/">Gravatara</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
